@@ -6,6 +6,7 @@
             "email": "mateusvinicios7@gmail.com"
         }
     ],
+    "description": "php framework",
     "require": {
         "php-di/php-di": "^6.3",
         "guzzlehttp/guzzle": "^7.0"
