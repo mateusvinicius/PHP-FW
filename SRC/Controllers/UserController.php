@@ -14,6 +14,6 @@ class UserController
     public function index(Request $request, Response $response)
     {
 
-        echo "oioi";
+        echo "oi";
     }
 }
