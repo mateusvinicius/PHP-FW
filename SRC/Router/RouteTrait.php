@@ -4,9 +4,9 @@ namespace APP\Router;
 
 use APP\Annotations\RouteAnnotations;
 
+
 class RouteTrait
 {
-
 
 
     public static function Resolver($class): array

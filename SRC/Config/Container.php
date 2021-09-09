@@ -4,7 +4,7 @@ use GuzzleHttp\Psr7\ServerRequest;
 use GuzzleHttp\Psr7\Response;
 
 return [
-
+    'controller.namespace' => "APP/Controllers",
 
     'resquest' => function () {
 
